@@ -4,10 +4,15 @@ LAPORAN PRAKTIKUM 10
 NAMA : Muhammad Fauzan Gifari | KELAS :TI.24.A3 | NIM : 312210428
 
 INTRUKSI PRAKTIKUM PHP MODULAR
+
 Persiapkan text editor misalnya VSCode.
+
 Buat folder baru dengan nama lab9_php_modular pada docroot webserver (htdocs)
+
 Ikuti langkah-langkah praktikum yang akan dijelaskan berikutnya.
+
 LANGKAH - LANGKAH PRAKTIKUM PHP MODULAR
+
 Gunakan struktur direktory seperti berikut:
 <img width="1919" height="1125" alt="image" src="https://github.com/user-attachments/assets/a37e1c84-38ba-4581-8527-3e1b346034c3" />
 
